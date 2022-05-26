@@ -1,7 +1,10 @@
 ## Hi there 👋 I am Gabriela!
 
-- 👩‍🎓  Full Stack Web Developer
-- 🌱 Currently studying **AWS Cloud Practitioner**
+- 👩‍🎓  **Full Stack Web Developer** graduated at Generation Brazil
+- 💬 Bilingual (English/ Portuguese)
+- 🌱 Currently studying:
+- 📌**Science in Computing** at Dorset College
+- 📌**AWS Cloud Practitioner**
 
 
 
